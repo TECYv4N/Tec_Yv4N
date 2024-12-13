@@ -1,0 +1,38 @@
+[Info]
+name         = "Shingo Yabuki"
+displayname  = "Shingo"
+versiondate  = 12,03,2010
+author       = "JFCT555 (Edit & Updates by Tec)"
+mugenversion = 1.1
+localcoord   = 427,240
+pal.defaults = 1,2,3,4,5,6,7,8,9,10,11,12
+ikemenversion=0.99
+
+[Files]
+cmd      =Shingo.cmd
+cns      =Shingo-C.cns
+st       =Shingo-C.cns
+stcommon =Common1.cns
+sprite   =Shingo.sff
+anim     =Shingo.air
+sound    =Shingo.snd
+pal1=paletas/Shingo01.act
+pal2=paletas/Shingo02.act
+pal3=paletas/Shingo03.act
+pal4=paletas/Shingo04.act
+pal5=paletas/Shingo05.act
+pal6=paletas/Shingo06.act
+pal7=paletas/Shingo07.act
+pal8=paletas/Shingo08.act
+pal9=paletas/Shingo09.act
+pal10=paletas/Shingo10.act
+pal11=paletas/Shingo11.act
+pal12=paletas/Shingo12.act
+st1=Shingo-N.cns
+st2=Shingo-S.cns
+st3=Shingo-H.cns
+st4=Shingo-2-3.cns
+
+[Arcade]
+intro.storyboard=
+ending.storyboard=
